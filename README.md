@@ -12,6 +12,12 @@
   San Antonio, TX
 </p>
 
+<p align="center">
+  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Pentest%20%2F%20Red%20Team%20roles-brightgreen?style=flat-square">
+  &nbsp;
+  <img alt="OSCP Certified" src="https://img.shields.io/badge/OSCP-Certified-red?style=flat-square">
+</p>
+
 ---
 
 ### About
